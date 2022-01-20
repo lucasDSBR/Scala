@@ -1,0 +1,6 @@
+#FileLock
+#Thu Jan 20 20:40:42 BRT 2022
+hostName=localhost
+id=17e79dd222f6fd4514ef4dac063e5402380ef5163bc
+method=file
+server=localhost\:19259
