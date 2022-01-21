@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\src\main\scala\tiposVariaveis.scala:9:30 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m9 |[0m        println(texto getClass())[0m
+[0m[[0m[31merror[0m] [0m[0m  |                              [31m^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |can't supply unit value with infix notation because nullary [33mmethod[0m [35mgetClass[0m in [33mclass[0m [35mAny[0m: (): Class[? <: X0] takes no arguments; use dotted invocation instead: (...).getClass()[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

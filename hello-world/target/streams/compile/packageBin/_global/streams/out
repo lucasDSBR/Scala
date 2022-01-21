@@ -1,5 +1,23 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\hello-world_3-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	animaiss$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\animaiss$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	animaiss$Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\animaiss$Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	animaiss$Cachorro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\animaiss$Cachorro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	animaiss$Gato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\animaiss$Gato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	animaiss.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\animaiss.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	animaiss.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\animaiss.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataBrasil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\DataBrasil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataBrasil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\DataBrasil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataBrasil.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\DataBrasil.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\hello.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
@@ -10,4 +28,16 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\Main$package.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Timer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\Timer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Timer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\Timer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Timer.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\Timer.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tiposVar$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\tiposVar$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tiposVar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\tiposVar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tiposVar.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\acerte\Desktop\git\PEOJETOS_PESSOAIS\Scala\hello-world\target\scala-3.1.0\classes\tiposVar.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

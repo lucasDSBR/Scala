@@ -1,3 +1,9 @@
 1642722153530:run
 1642722303341:cls
 1642722305232:exit
+1642723460604:~run
+1642723724690:~run DateBrasil.scala
+1642724085993:~run
+1642725624082:val triplicar = (n:Int) => n*3
+1642725628012:cls
+1642725666173:def main(args Array[String]){ println("Ola  usuario")}
